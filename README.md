@@ -1,2 +1,2 @@
 # drawio
-Digrams and charts
+Process diagrams
